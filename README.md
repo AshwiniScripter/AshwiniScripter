@@ -7,4 +7,4 @@ Languages: HTML, CSS, PHP, PDO
 
 Frameworks: Bootstrap
 
-https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical
+(https://github-readme-stats.vercel.app/api?username=AshwiniScripter)](https://github.com/AshwiniScripter/github-readme-stats)
