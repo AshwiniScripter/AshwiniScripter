@@ -6,5 +6,6 @@ I'm Ashwini, a passionate web developer specializing in HTML, CSS, PHP, and PDO 
 Languages: HTML, CSS, PHP, PDO
 
 Frameworks: Bootstrap
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshwiniScripter)](https://github.com/AshwiniScripter/github-readme-stats)
+
+[![AshwiniScripter GitHub stats](https://github-readme-stats.vercel.app/api?username=AshwiniScripter)](https://github.com/AshwiniScripter/github-readme-stats)
 
