@@ -1,6 +1,12 @@
-## Ashwini Salunke
+# Welcome to My GitHub Profile! 👋
+## Hi, I'm Ashwini! 👨‍💻  
+🎓 Completed diploma in computer technology, pursuing a degree.  
+🌱 Currently learning **DSA in Java** and **Android development**.  
+⚡ Fun fact: I love coding and web development!  
 
-I'm Ashwini Salunke, a passionate web developer specializing in HTML, CSS, PHP and I'm eager to contribute to the IT world.
+## Skills
+- **Languages**: HTML, CSS, JavaScript, PHP
+- **Frameworks/Libraries**: Bootstrap
 
-
-
+## Connect with Me
+📫 [Email Me](ashwinisalunke205@gmail.com)
