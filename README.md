@@ -27,6 +27,3 @@ With a keen interest in continuous learning, I am also diving into **Android dev
 
 ---
 
-## 🚀 Featured Projects
-- [**Portfolio Website**](https://github.com/AshwiniScripter/portfolio): A responsive personal portfolio website built with HTML, CSS, and JavaScript.
-- [**To-Do List**](https://github.com/AshwiniScripter/todo-list): A simple and intuitive to-do list application to manage tasks efficiently, created using JavaScript for dynamic functionalities.
