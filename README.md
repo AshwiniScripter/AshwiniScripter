@@ -8,7 +8,7 @@ With a keen interest in continuous learning, I am also diving into **Android dev
 ![Profile Views](https://komarev.com/ghpvc/?username=AshwiniScripter&color=blue&style=flat-square)  
 [![GitHub Follow](https://img.shields.io/github/followers/AshwiniScripter?label=Follow&style=social)](https://github.com/AshwiniScripter)
 [![GitHub Stars](https://img.shields.io/github/stars/AshwiniScripter?label=Stars&style=social)](https://github.com/AshwiniScripter)
-<img align="right" src="https://assets-v2.lottiefiles.com/a/dc2bdb70-1182-11ee-9b7e-2f020f8a453e/dQBca9a6Rp.gif" alt="Sticker" width="300" />
+<img align="right" src="image.gif" alt="Animation" width="300" />
 
 ## 🛠️ Languages and Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
