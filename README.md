@@ -4,7 +4,6 @@ Hi, I'm Ashwini! 👋
 I am a dedicated and results-driven **Web Developer** and an aspiring **Android Developer**, with a strong foundation in **HTML**, **CSS**, **JavaScript**, and **Java**. I am passionate about designing efficient and scalable web applications, crafting user-friendly interfaces, and exploring innovative technologies to solve real-world problems.  
 
 With a keen interest in continuous learning, I am also diving into **Android development** to broaden my skill set and build impactful mobile applications. Let's collaborate and build something amazing!  
-<img align="right" src="image.gif" alt="Animation" width="300" />
 ![Profile Views](https://komarev.com/ghpvc/?username=AshwiniScripter&color=blue&style=flat-square)  
 [![GitHub Follow](https://img.shields.io/github/followers/AshwiniScripter?label=Follow&style=social)](https://github.com/AshwiniScripter)
 [![GitHub Stars](https://img.shields.io/github/stars/AshwiniScripter?label=Stars&style=social)](https://github.com/AshwiniScripter)
