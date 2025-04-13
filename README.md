@@ -1,7 +1,9 @@
 #  Ashwini Salunke
 
-Hi, I'm Ashwini! 👋  
-I am a dedicated and results-driven **Web Developer** and an aspiring **Android Developer**, with a strong foundation in **HTML**, **CSS**, **JavaScript**, and **Java**. I am passionate about designing efficient and scalable web applications, crafting user-friendly interfaces, and exploring innovative technologies to solve real-world problems.  
+Hi, I'm Ashwini! 👋
+I am a dedicated and results-driven Web Developer and an aspiring Android Developer, with a strong foundation in HTML, CSS, JavaScript, and Java. I specialize in building efficient and scalable web applications with a keen eye for crafting responsive and user-friendly interfaces.
+
+I have hands-on experience working with modern technologies like React and Tailwind CSS, enabling me to develop dynamic front-end solutions with clean, maintainable code. I am passionate about leveraging innovative tools and frameworks to solve real-world problems and continuously enhance the user experience.
 
 With a keen interest in continuous learning, I am also diving into **Android development** to broaden my skill set and build impactful mobile applications. Let's collaborate and build something amazing!  
 ![Profile Views](https://komarev.com/ghpvc/?username=AshwiniScripter&color=blue&style=flat-square)  
