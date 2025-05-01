@@ -5,7 +5,6 @@ I'm a results-driven Web Developer and aspiring Android Developer with a strong 
 Passionate about continuous learning, I’m currently expanding into **Android development**, while also cultivating a strong interest in **networking and cloud** technologies to broaden my technical expertise.
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=AshwiniScripter&color=blue&style=flat-square)  
 [![GitHub Follow](https://img.shields.io/github/followers/AshwiniScripter?label=Follow&style=social)](https://github.com/AshwiniScripter)
 [![GitHub Stars](https://img.shields.io/github/stars/AshwiniScripter?label=Stars&style=social)](https://github.com/AshwiniScripter)
 
@@ -28,6 +27,6 @@ Passionate about continuous learning, I’m currently expanding into **Android d
 ## 📊 GitHub Stats
 ![Ashwini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshwiniScripter&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwiniScripter&layout=compact&theme=radical)  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AshwiniScripter&theme=react-dark)
+
 
 ---
